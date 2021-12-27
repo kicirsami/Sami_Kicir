@@ -657,12 +657,8 @@ select {
     margin: 0;
 }
 
-.service_section {
-    padding-bottom: 50px;
-}
-
 .service .container {
-    padding-bottom: 40px;
+    padding-bottom: 0px;
 }
 
 .service .service-item {
